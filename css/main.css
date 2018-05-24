@@ -97,7 +97,7 @@ textarea {
    Author's custom styles -- Edited by JT
    ========================================================================== */
 body {
-	background-image: url("img/background.jpg");
+	background-image: url("./img/background.jpg");
 }
 ul {
 	list-style-type: none;
